@@ -2,14 +2,14 @@
 
 AutoInsight AI is a full-stack web application designed to help users upload datasets, manage them, and perform automated analytics and insights generation. 
 
-## 🚀 Features
+## Features
 - **Dashboard**: Overview of your active datasets and analytics results.
 - **Dataset Management**: Upload, view, and manage datasets via the web interface.
 - **Analytics Engine**: Powered by Pandas and Scikit-learn to extract insights from your data.
 - **Dark Mode Support**: Toggleable dark mode for better user experience.
 - **Docker Ready**: Easy deployment with Docker.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Framework**: React.js 18
@@ -25,7 +25,7 @@ AutoInsight AI is a full-stack web application designed to help users upload dat
 - **Data Processing**: Pandas & NumPy
 - **Machine Learning**: Scikit-Learn
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 autoinsight-ai/
@@ -45,7 +45,7 @@ autoinsight-ai/
 └── docker/           # Docker configuration files
 ```
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js & npm (for the frontend)
@@ -87,9 +87,15 @@ autoinsight-ai/
    ```
    The app will be available at `http://localhost:3000`.
 
-## 🐳 Running with Docker
+## Running with Docker
 
 *(Instructions to be updated based on your specific docker-compose setup)*
 ```bash
 docker-compose up -d --build
 ```
+
+##Author Details
+
+**Pokala Gopi Lakshman**
+- Email: pokala.gopilakshman@gmail.com
+- GitHub: [github.com/pokala-gopi-lakshman](https://github.com/22BCE0585)
